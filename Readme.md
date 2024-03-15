@@ -48,6 +48,8 @@ uvicorn main:app --reload
 
 ## Url API Testing
 - localhost:8000/docs
+![alt text](<screenshots/Screenshot 2024-03-16 at 00.19.44.png>)
 
 ## Url API Doc
 - localhost:8000/redoc
+![alt text](<screenshots/Screenshot 2024-03-16 at 00.21.32.png>)
